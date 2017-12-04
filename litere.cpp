@@ -3,7 +3,6 @@ Să se afişeze numărul literelor mari, numarul literelor mici şi
 numărul cifrelor citite; care este cea mai
 mare (lexicografic) literă mare, literă mică şi cifră introdusă.*/
 #include <iostream>
-#include <cstring>
 using namespace std;
 bool citire = true;
 int main(){
